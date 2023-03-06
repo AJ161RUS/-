@@ -1,0 +1,15 @@
+D:\ptoject1\Ex001HelloCons\bin\Debug\net7.0\Ex001HelloCons.exe
+D:\ptoject1\Ex001HelloCons\bin\Debug\net7.0\Ex001HelloCons.deps.json
+D:\ptoject1\Ex001HelloCons\bin\Debug\net7.0\Ex001HelloCons.runtimeconfig.json
+D:\ptoject1\Ex001HelloCons\bin\Debug\net7.0\Ex001HelloCons.dll
+D:\ptoject1\Ex001HelloCons\bin\Debug\net7.0\Ex001HelloCons.pdb
+D:\ptoject1\Ex001HelloCons\obj\Debug\net7.0\Ex001HelloCons.csproj.AssemblyReference.cache
+D:\ptoject1\Ex001HelloCons\obj\Debug\net7.0\Ex001HelloCons.GeneratedMSBuildEditorConfig.editorconfig
+D:\ptoject1\Ex001HelloCons\obj\Debug\net7.0\Ex001HelloCons.AssemblyInfoInputs.cache
+D:\ptoject1\Ex001HelloCons\obj\Debug\net7.0\Ex001HelloCons.AssemblyInfo.cs
+D:\ptoject1\Ex001HelloCons\obj\Debug\net7.0\Ex001HelloCons.csproj.CoreCompileInputs.cache
+D:\ptoject1\Ex001HelloCons\obj\Debug\net7.0\Ex001HelloCons.dll
+D:\ptoject1\Ex001HelloCons\obj\Debug\net7.0\refint\Ex001HelloCons.dll
+D:\ptoject1\Ex001HelloCons\obj\Debug\net7.0\Ex001HelloCons.pdb
+D:\ptoject1\Ex001HelloCons\obj\Debug\net7.0\Ex001HelloCons.genruntimeconfig.cache
+D:\ptoject1\Ex001HelloCons\obj\Debug\net7.0\ref\Ex001HelloCons.dll
